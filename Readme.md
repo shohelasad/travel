@@ -1,4 +1,4 @@
-# TRAVEL - docker based proejct
+# TRAVEL - docker based project
 
 
 ## Prerequisites
