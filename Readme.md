@@ -1,4 +1,4 @@
-# TRAVEL - Element Assignment
+# TRAVEL - docker based proejct
 
 
 ## Prerequisites
